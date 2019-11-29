@@ -1,0 +1,11 @@
+{
+  "name": "cut-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "503292@ukr.net",
+  "license": "ISC"
+}
